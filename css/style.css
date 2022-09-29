@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 80px;
+    background-color: #77746f;
+    text-align: center;
+    color: black;
+
+}
+.banner{
+    height: 100px;
+    background-color:darkgrey;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    
+}
+.article{
+    overflow: hidden;
+}
+.left{
+    width: 50%;
+    height: 300px;
+    background-color: #d49e9e;
+    text-align: center;
+    float: left;
+
+}
+.right{
+    width: 50%;
+    height: 300px;
+    background-color: #8484a8;
+    text-align: center;
+    float:right;
+
+}
+.feature{
+    overflow: hidden;
+}
+.feature_one{
+    width: 33.3%;
+    height: 200px;
+    background-color: #787c72;
+    float: left;
+    text-align: center;
+}
+.feature_two{
+    width: 33.3%;
+    height: 200px;
+    background-color: #61565d;
+    float: left;
+    text-align: center;
+
+}
+.feature_three{
+    width: 33.3%;
+    height: 200px;
+    background-color: #678888;
+    float: left;
+    text-align: center;
+
+}
+.ads{
+    overflow: hidden;
+
+}
+.left_ads{
+    width: 70%;
+    height: 100px;
+    font-size: 20px;
+    background-color: #d1a393;
+    text-align: center;
+    float: left;
+
+}
+.right_ads{
+    width: 30%;
+    height: 100px;
+    background-color: aqua;
+    text-align: center;
+    float:right;
+}
+    
+footer{
+    background-color: black;
+    height: 70px;
+    color:gold;
+    text-align: center;
+}
